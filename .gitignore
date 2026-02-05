@@ -6,12 +6,12 @@
 # SOLID_SRP_OCP_LSP
 # SOLID_ISP_DIP
 # lld_Solid_SRP_OCP_LSP
-lld_Solid_ISP_DIP
+# lld_Solid_ISP_DIP
 
-Singleton_Pattern
-Factory_Pattern
-Factory_Pattern_Extended
-AbstractFactory
+# Singleton_Pattern
+# Factory_Pattern
+# Factory_Pattern_Extended
+# AbstractFactory
 Builder_Pattern
 Builder_Pattern_Advanced
 Prototype_Pattern
